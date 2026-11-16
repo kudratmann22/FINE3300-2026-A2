@@ -24,7 +24,7 @@ First, the graph will appear; after you read it, close it to start the calculato
 The graph shows the Canadian CPI from 1950 to 2015. The pink line shows the CPI level rising over time, crossing the base level of 100 in 1982. The orange line shows the annual percentage change (the sharp inflation spikes of the 1970s and early 1980s reaching over 12%, and a decline to the 1-3% range after 1990). The data is filtered to 1950–2015 because the full dataset starting from 1914 skewed the graph, compressing the more recent years and relevant data, which made it difficult to read the graph.
 
 ## Sample Output
-'''
+```
 Enter dollar amount you want to calculate inflation for: 100
 Enter starting month (1-12): 3
 Enter starting year (1950-2015): 1987
@@ -42,6 +42,6 @@ Results
   CPI 03/1987          : 67.5
   CPI 07/1999          : 93.1
   (Base year: 2002 = 100.0)
-'''
+```
 ## Source
   Bank of Canada CPI data: https://www.bankofcanada.ca/rates/related/inflation-calculator/
